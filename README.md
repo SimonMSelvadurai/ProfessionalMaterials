@@ -13,7 +13,7 @@ Developing this project helps to get much more understaing about the HTML symant
 
 Source code can be downloaded from https://github.com/SimonMSelvadurai/ProfessionalMaterials
 
-Application can be launched with the URL https://p2-group-5.herokuapp.com/
+Application can be launched with the URL https://simonmselvadurai.github.io/ProfessionalMaterials/
 
 ## Usage
 
