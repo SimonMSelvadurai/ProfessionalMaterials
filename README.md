@@ -11,35 +11,57 @@ Developing this project helps to get much more understaing about the HTML symant
 
 ## Installation
 
-Source code can be downloaded from https://github.com/SimonMSelvadurai/Portfolio/
+Source code can be downloaded from https://github.com/SimonMSelvadurai/ProfessionalMaterials
 
-Application can be launched with the URL https://simonmselvadurai.github.io/Portfolio/
+Application can be launched with the URL https://p2-group-5.herokuapp.com/
 
 ## Usage
 
-Home Page
-
-![image](https://user-images.githubusercontent.com/80757990/126259102-11d97bed-43e6-45bb-8d36-5cac4352b525.png)
+### Home Page
 
 
-About Me
+![image](https://user-images.githubusercontent.com/80757990/133081711-b3f1aba6-1503-4f06-9dfd-04e77122d388.png)
+
+
+
+### About Me
 
 This is a intro about me. 
-![image](https://user-images.githubusercontent.com/80757990/126259411-30e20a0a-93d4-4424-9606-ea069be10584.png)
+
+![image](https://user-images.githubusercontent.com/80757990/133081777-e97ea159-da02-4c64-a2fd-847babfb9529.png)
 
 
-Projects
+
+### Projects
 
 This section will showcase the various projects. Upon mouse over the image will glow. There are options to view
 the source code and link to live project.
 
-![image](https://user-images.githubusercontent.com/80757990/126259261-30ba40d4-eda3-4bcc-92b8-0452f2eab80a.png)
+![image](https://user-images.githubusercontent.com/80757990/133081831-0dda6ee7-2b89-41df-b1f4-115c60544346.png)
 
-Contact Me
+**Travel Bug**
+
+Source code : https://github.com/SimonMSelvadurai/TravelBug
+
+Application URL : https://p2-group-5.herokuapp.com/
+
+
+**Ctyptfolio**
+
+Source Code : https://github.com/SimonMSelvadurai/Cryptfolio 
+
+Application URL : https://lallender.github.io/Cryptfolio/
+
+**Weather-Dashboard**
+
+Source code :https://github.com/SimonMSelvadurai/Weather-Dashboard
+
+Live Site : https://simonmselvadurai.github.io/Weather-Dashboard/
+
+### Contact Me
 This section will show case the contact details like, email, linkedIn, Github and downloadable resume.
 
-![image](https://user-images.githubusercontent.com/80757990/126259647-0a240e0f-6043-48fe-8e47-a04be75cc240.png)
-
+![image](https://user-images.githubusercontent.com/80757990/133081960-9cbbf1d4-62e0-487f-99b3-cfcd2e0c3c18.png)
 
 When the user clicks the URL, the home page will be loaded.
 User should able to see the Avata and Employee's Name on the top left corner.
